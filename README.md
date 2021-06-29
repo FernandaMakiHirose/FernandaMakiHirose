@@ -5,7 +5,7 @@
 
 - 👨‍💻 Portfólio [https://github.com/FernandaMakiHirose/portfolio-fernandamakihirose](https://github.com/FernandaMakiHirose/portfolio-fernandamakihirose)
 
-- 📝 Sou ativa na DIO [https://web.digitalinnovation.one/users/femahi2020?tab=achievements](https://web.digitalinnovation.one/users/femahi2020?tab=achievements)
+- 📝 DIO [https://web.digitalinnovation.one/users/femahi2020?tab=achievements](https://web.digitalinnovation.one/users/femahi2020?tab=achievements)
 
 - 📫 E-mail **femahi2020@gmail.com**
 
