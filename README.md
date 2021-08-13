@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandamakihirose" alt="fernandamakihirose" /></a> </p>
 
-- 👨‍💻 Portfólio [https://github.com/FernandaMakiHirose/portfolio-fernandamakihirose](https://github.com/FernandaMakiHirose/portfolio-fernandamakihirose)
+- 👨‍💻 Portfólio [https://github.com/FernandaMakiHirose/portfolio](https://github.com/FernandaMakiHirose/portfolio-fernandamakihirose)
 
 - 📝 Sou ativa na DIO [https://web.digitalinnovation.one/users/femahi2020?tab=achievements](https://web.digitalinnovation.one/users/femahi2020?tab=achievements)
 
