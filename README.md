@@ -1,10 +1,6 @@
 <h1 align="center"> Olá, Eu sou a Fernanda Maki Hirose <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></h1> 
 <h3 align="center">Programadora Full Stack disposta a solucionar desafios e atingir metas. Almejo aprender cada vez mais e contribuir com meu código no estudo de todos. Desenvolvo diversos tipos de aplicações, sempre focando em otimizar processos, sem comprometer a qualidade final.</h3>
 
-<p align="center">
-<img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandamakihirose&label=Profile%20views&color=0e75b6&style=flat" alt="fernandamakihirose" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandamakihirose" alt="fernandamakihirose" /></a> </p>
