@@ -5,8 +5,6 @@
 <img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
 </p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandamakihirose&label=Profile%20views&color=0e75b6&style=flat" alt="fernandamakihirose" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandamakihirose" alt="fernandamakihirose" /></a> </p>
