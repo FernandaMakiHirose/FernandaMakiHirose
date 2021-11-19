@@ -1,4 +1,4 @@
- <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/> <em> colorful post-it notes lover</em></p> <h1 align="center">Olá 👋, Eu sou a Fernanda Maki Hirose</h1> <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/> <em> colorful post-it notes lover</em></p>
+ <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/></p> <h1 align="center">Olá 👋, Eu sou a Fernanda Maki Hirose</h1> <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/></p>
 <h3 align="center">Programadora Full Stack disposta a solucionar desafios e atingir metas. Almejo aprender cada vez mais e contribuir com meu código no estudo de todos. Desenvolvo diversos tipos de aplicações, sempre focando em otimizar processos, sem comprometer a qualidade final.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandamakihirose&label=Profile%20views&color=0e75b6&style=flat" alt="fernandamakihirose" /> </p>
