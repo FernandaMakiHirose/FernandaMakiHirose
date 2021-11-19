@@ -1,4 +1,4 @@
-<h1 align="center"></h2> Olá, Eu sou a Fernanda Maki Hirose <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></h1> 
+<h1 align="center"> Olá, Eu sou a Fernanda Maki Hirose <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></h1> 
 <h3 align="center">Programadora Full Stack disposta a solucionar desafios e atingir metas. Almejo aprender cada vez mais e contribuir com meu código no estudo de todos. Desenvolvo diversos tipos de aplicações, sempre focando em otimizar processos, sem comprometer a qualidade final.</h3>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
