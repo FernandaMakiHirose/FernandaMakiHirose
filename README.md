@@ -1,4 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou a Fernanda Maki Hirose</h1> 
+<p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 <h3 align="center">Programadora Full Stack disposta a solucionar desafios e atingir metas. Almejo aprender cada vez mais e contribuir com meu código no estudo de todos. Desenvolvo diversos tipos de aplicações, sempre focando em otimizar processos, sem comprometer a qualidade final.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandamakihirose&label=Profile%20views&color=0e75b6&style=flat" alt="fernandamakihirose" /> </p>
