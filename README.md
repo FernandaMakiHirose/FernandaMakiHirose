@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandamakihirose" alt="fernandamakihirose" /></a> </p>
 
 - 👨‍💻 Portfólio [https://fernandamakihirose.github.io/portfolio/](https://github.com/FernandaMakiHirose/portfolio-fernandamakihirose)
-- 📫 E-mail **femahi2020@gmail.com**
+- 📫 E-mail **fernanda.hirose@gft.com**
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
