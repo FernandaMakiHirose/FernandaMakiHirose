@@ -1,5 +1,3 @@
-<h1 align="center"> Olá, Eu sou a Fernanda Maki Hirose  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> </h1>  
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandamakihirose&label=Profile%20views&color=0e75b6&style=flat" alt="fernandamakihirose" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandamakihirose" alt="fernandamakihirose" /></a> </p>
